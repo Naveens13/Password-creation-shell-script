@@ -1,0 +1,2 @@
+Username- woz Password- 08505a4008 HostName- Shell-Scripting-VM
+Username- moore Password- 3ed048a366 HostName- Shell-Scripting-VM
